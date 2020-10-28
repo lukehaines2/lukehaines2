@@ -1,4 +1,4 @@
-Hi, I'm Luke Haines! 👋
+I'm Luke, welcome to my github! 👋
 
 I'm Luke, a Front End Developer working in London! 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][3].
