@@ -1,7 +1,6 @@
 ## I'm Luke, welcome to my github! 👋
 
-I'm a Front End Developer working and living in London. I have a background in graphic design so it's probably no surprise that when push comes to shove, I'd definitely prefer tweaking CSS rather than a SQL query... but I'd happily have a go at both!  
-See what I'm up to here [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+I'm a Front End Developer working and living in London. I have a background in graphic design so it's probably no surprise that when push comes to shove, I'd definitely prefer tweaking CSS rather than a SQL query... but I'd happily have a go at both! See what I'm up to on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 
 
 ## 🔧 My Core Technologies & Tools
@@ -27,7 +26,7 @@ See what I'm up to here [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehaines2&theme=tokyonight&hide=php,ruby" alt="most used langs"/>
 
 
-## What I'm learning:
+## 📖 What I'm learning:
 
 
 - Styled Components
