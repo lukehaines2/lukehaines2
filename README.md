@@ -22,7 +22,7 @@ See what I'm up to here [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukehaines2&theme=tokyonight&hide=issues,contribs&count_private=true" alt="Lukes most used languages" width="90%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukehaines2&theme=tokyonight&hide=issues,contribs&count_private=true" alt="Lukes most used languages"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehaines2&theme=tokyonight&hide=php,ruby" alt="most used langs"/>
 
