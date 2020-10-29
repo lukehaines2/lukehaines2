@@ -1,6 +1,7 @@
 ## I'm Luke, welcome to my github! 👋
 
-I'm a Front End Developer working and living in London. I have a background in graphic design so it's probably no surprise that when push comes to shove, I definitely prefer tweaking CSS rather than SQL querys.... but I'd happily have a go at both! I'm a Front End contractor most at home when working with React and JS codebases, but my experience has also included a fair bit of full-stack work along with a bit of PHP and wordpress type projects. When I'm not coding it's safe to say I'll be doing something related to the financial markets, wether it be researching/investing/trading/building. See what I'm up to on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
+I'm a Front End Developer working and living in London. I have a background in graphic design so it's probably no surprise that when push comes to shove, I definitely prefer tweaking CSS rather than SQL querys.... but I'd happily have a go at both!! I'm a Front End contractor most at home when working with React and JS codebases, but my experience has also included a fair bit of full-stack work along with a bit of PHP and wordpress type projects.\
+When I'm not coding it's safe to say I'll be doing something related to the financial markets, wether it be researching/investing/trading/building. See what I'm up to on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 
 
 ## 🔧 My Core Technologies & Tools
