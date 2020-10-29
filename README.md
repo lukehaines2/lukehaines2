@@ -22,13 +22,9 @@ See what I'm up to here [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## &#x1f4c8; GitHub Stats
 
-<a src="https://github.com/lukehaines2/lukehaines2">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukehaines2&theme=tokyonight&hide=issues,contribs&count_private=true" alt="Lukes most used languages"/>
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukehaines2&theme=tokyonight&hide=issues,contribs&count_private=true" alt="Lukes most used languages" width="90%"/>
 
-<a src="https://github.com/lukehaines2/lukehaines2">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehaines2&theme=tokyonight&hide=php,ruby" alt="most used langs"/>
-</a>
 
 
 ## What I'm learning:
