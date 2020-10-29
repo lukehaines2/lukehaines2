@@ -1,39 +1,40 @@
-I'm Luke, welcome to my github! 👋
+## I'm Luke, welcome to my github! 👋
 
-I'm Luke, a Front End Developer working in London! 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+I'm a Front End Developer working and living in London. I have a background in graphic design so it's probably no surprise that when push comes to shove, I'd definitely prefer tweaking CSS rather than a SQL query... but I'd happily have a go at both!
+
+See what I'm up to here [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
 
 ## 🔧 My Core Technologies & Tools
 
-![JS](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![Redux](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
-![Scss](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![Css](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![Webpack](https://img.shields.io/badge/Bundle-Webpack5-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
-![Node](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![Cloud](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![Shell](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+![JS](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a&logoWidth=15)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a&logoWidth=15)
+![Redux](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a&logoWidth=15)
+![Scss](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a&logoWidth=15)
+![Css](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a&logoWidth=15)
+![Webpack](https://img.shields.io/badge/Bundle-Webpack5-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a&logoWidth=15)
+![Node](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a&logoWidth=15)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a&logoWidth=15)
+![VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a&logoWidth=15)
+![Shell](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a&logoWidth=15)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a&logoWidth=15)
 
 
 ## &#x1f4c8; GitHub Stats
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukehaines2&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukehaines2&theme=tokyonight&hide=issues,contribs&count_private=true" alt="Lukes most used languages"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehaines2&theme=tokyonight&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehaines2&theme=tokyonight&layout=compact" alt="most used langs"/>
 
 
-<a src="https://twitter.com/LukeGainzz" >Twitter</a>
-<a src="https://www.linkedin.com/in/lukehaines2/">Linkedin</a>
+## What I'm learning:
 
-what I'm learning:
 
-Styled Components
-Typescript
-Python
+- Styled Components
+- Typescript
+- Python
 
 
 <!-- icons without padding -->
