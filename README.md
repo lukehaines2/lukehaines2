@@ -10,8 +10,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ![Redux](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![Scss](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![Css](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![Node](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![Webpack](https://img.shields.io/badge/Bundle-Webpack5-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
+
+![Node](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![Shell](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
