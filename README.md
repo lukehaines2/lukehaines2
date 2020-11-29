@@ -1,3 +1,5 @@
+![GreetingBanner](images/github-banner.png)
+
 ## I'm Luke, welcome to my github! 👋
 
 I'm a Front End Developer working and living in London. I have a background in graphic design so it's probably no surprise that when push comes to shove, I definitely prefer tweaking CSS rather than SQL querys.... but I'd happily have a go at both!!\
@@ -46,7 +48,7 @@ When I'm not coding it's safe to say I'll be doing something related to the fina
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- links to your social media accounts -->
+<!-- links to social media accounts -->
 
 [1]: https://twitter.com/LukeGainzz
 [2]: https://www.linkedin.com/in/lukehaines2/
