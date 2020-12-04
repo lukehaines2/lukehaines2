@@ -6,6 +6,7 @@ I'm a Front End Developer living and working in London (#remote2020). I have a b
 As a Front End contractor I'm most at home working with React and JS codebases, but my experience has also included a fair bit of full-stack work along with a bit of PHP and wordpress type projects.\
 When I'm not coding it's safe to say I'll be doing something related to the financial markets, whether it be researching/investing/ trading/building. See what I'm up to on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 
+Fun fact: The CEO of github liked my tweet about open source once 🤗
 
 ## 🔧 My Core Technologies & Tools
 
